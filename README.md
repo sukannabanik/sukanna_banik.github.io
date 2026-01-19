@@ -2,7 +2,7 @@
 
 📍 Kolkata, West Bengal, India  
 📧 Email: sbanik0903@gmail.com  
-🔗 LinkedIn: *(add your LinkedIn link)*  
+🔗 LinkedIn: https://www.linkedin.com/in/sukanna-banik-3a5851254/)
 💻 GitHub: *(this profile)*  
 
 ---
@@ -50,7 +50,6 @@ I have built **end-to-end analytics projects** using real-world datasets, delive
 - Built **interactive Power BI dashboards** highlighting churn trends and customer segments  
 - Provided insights to support data-driven retention strategies  
 
-📁 Repository: *(add GitHub repo link here)*  
 
 ---
 
@@ -62,13 +61,13 @@ I have built **end-to-end analytics projects** using real-world datasets, delive
 - Used **PostgreSQL** for querying and analysis  
 - Designed **Power BI dashboards** to present KPIs and insights  
 
-📁 Repository: *(add GitHub repo link here)*  
+📁 Repository: https://github.com/sukannabanik/Customer_Behaviour_Analysis
 
 ---
 
 ## 📜 Certifications
 - **IBM – Python for Data Science**
-- **Google Data Analytics – Foundations (Coursera)**
+- **Google Data Analytics**
 
 ---
 
