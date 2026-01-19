@@ -2,8 +2,8 @@
 
 📍 Kolkata, West Bengal, India  
 📧 Email: sbanik0903@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/sukanna-banik-3a5851254/)
-💻 GitHub: *(this profile)*  
+🔗 LinkedIn: https://www.linkedin.com/in/sukanna-banik-3a5851254/
+💻 GitHub: https://github.com/sukannabanik 
 
 ---
 
